@@ -24,4 +24,4 @@ ENV PORT=7860
 EXPOSE 7860
 
 # Use uvicorn to serve FastAPI app defined in app.py as variable "app"
-CMD ["bash", "-lc", "uvicorn app:app --host 0.0.0.0 --port ${PORT:-7860}"]
+CMD ["bash", "-lc", "chmod +x /app/entrypoint.sh && /app/entrypoint.sh"]
