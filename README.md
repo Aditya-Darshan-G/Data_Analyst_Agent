@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 
-This project implements a **Data Analyst Agent** that can interpret natural-language questions, fetch or process data, and return structured answers. It is designed for the *Tools in Data Science* course (TDS Project 2).
+This project implements a **Data Analyst Agent** that can interpret natural-language questions, fetch or process data, and return structured answers. It is designed for the *Tools in Data Science* course (TDS Project 2). This used to be deployed on Railway.
 
 The agent runs as a **web service** and provides an automated workflow that:
 1. Accepts a plain text query (`question.txt`) from the user.
