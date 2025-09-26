@@ -1,3 +1,15 @@
+Deployed on Hugging Face at https://huggingface.co/spaces/Aditya-Darshan-G/Data_Analyst_Agent
+
+---
+title: Data Analyst Agent
+emoji: 🧠
+colorFrom: indigo
+colorTo: blue
+sdk: docker
+pinned: false
+app_port: 7860
+---
+
 # Data Analyst Agent
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
